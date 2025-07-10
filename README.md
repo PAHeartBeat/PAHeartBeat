@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Game Development with Unity, Game Optimisation, 
 - 📫 How to reach me: you can reach me via [LinkedIn](https://www.linkedin.com/in/paheartbeat/) or via [E-Mail](ankur@outlook.com)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
