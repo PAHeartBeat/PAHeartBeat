@@ -6,7 +6,8 @@ I am Ankur Ranpariya aka iPAHeartBeat
 - 👯 I’m looking to collaborate on a game development project with Unity for iOS, Android, WebGL, etc..
 - 🤔 I’m looking for help with Hardcore Multiplayer Games in Unity.
 - 💬 Ask me about Game Development with Unity, Game Optimisation
-- 📫 How to reach me: you can reach me via [LinkedIn](https://www.linkedin.com/in/paheartbeat/) or via [E-Mail](ankur@outlook.com)<br>- 😄 Pronouns: He/His<br>
+- 📫 How to reach me: you can reach me via [LinkedIn](https://www.linkedin.com/in/paheartbeat/) or via [E-Mail](ankur@outlook.com)
+- 😄 Pronouns: He/His<br>
 
 
 ## 🌐 Socials:
